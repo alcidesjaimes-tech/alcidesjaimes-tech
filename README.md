@@ -1,12 +1,12 @@
+<img width="4128" height="1024" alt="portadaIA" src="https://github.com/user-attachments/assets/215bdd9a-478f-42b1-9f6c-8b3bf2cd5df9" />
 
 <h1 align="center">🔰Bienvenidos al repositorio del Docente Innovador🔰 Alcides Jaimes🙎‍♂️</h1>
 <h3 align="center">Docente del Área de Desarrollo de Software</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-tropic"><img src="https://github-profile-tropic.vercel.app/?username=alcidesjaimes-tech" alt="alcidesjaimes-tech" /></a> </p>
 
 - Trabajo en el ✨Instituto Nacional de Sensuntepeque✨ [Perfil Docente](https://github.com/alcidesjaimes-tech/alcidesjaimes-tech)
 
-- 🌱 Cuento con más 10 años de experiencia en la Docencia **Docente de Informática**
+- 🌱 Cuento con más 10 años de experiencia como **Docente de Informática**
 
 - 🌐Soy Docente del Bachillerato de Desarrollo de Software. [Formación Docente](https://github.com/alcidesjaimes-tech/my_repositorio_Formacion_Docente)
 
